@@ -1,0 +1,60 @@
+{
+  "navbar": {
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "cases": "Casos de Éxito",
+    "contact": "Contáctanos"
+  },
+  "hero": {
+    "title": "Construimos soluciones con inteligencia.",
+    "subtitle": "Diseñamos e integramos software impulsado por IA que transforma industrias."
+  },
+  "about": {
+    "title": "Sobre IAnova Labs",
+    "description": "Somos una empresa de desarrollo de software e integración de inteligencia artificial para procesos reales. Transformamos ideas en sistemas inteligentes, robustos y escalables que impulsan el futuro de tu negocio."
+  },
+  "services": {
+    "title": "Módulos y Servicios",
+    "list": [
+      { "icon": "WrenchScrewdriverIcon", "title": "IA para Industria Plástica", "desc": "ERP de producción, materiales, inventarios." },
+      { "icon": "ScaleIcon", "title": "LegalTech", "desc": "Análisis jurídico documental y gestión de clientes." },
+      { "icon": "UserGroupIcon", "title": "Salud Mental", "desc": "App para psicólogos y gestión de pacientes." },
+      { "icon": "PhotoIcon", "title": "Genealogía/Recuerdos", "desc": "App familiar para conservar historias." },
+      { "icon": "CubeIcon", "title": "Retail Inteligente", "desc": "Gestión predictiva de inventarios." },
+      { "icon": "TruckIcon", "title": "IA para Logística", "desc": "Rutas óptimas, mantenimientos." },
+      { "icon": "ChartBarIcon", "title": "Análisis Predictivo de Ventas", "desc": "CRM con IA." },
+      { "icon": "BookOpenIcon", "title": "Sistemas Educativos", "desc": "Plataformas de aprendizaje personalizadas." }
+    ]
+  },
+  "cases": {
+    "title": "Casos de Éxito",
+    "list": [
+      { "emoji": "🌿", "title": "PlastiGest", "desc": "ERP para empresa de plásticos" },
+      { "emoji": "⚖️", "title": "IAnova Cases", "desc": "Gestión inteligente de casos y documentación" },
+      { "emoji": "🧠", "title": "PsicoFlow", "desc": "Gestión de terapeutas y pacientes" },
+      { "emoji": "🧬", "title": "Admemorian", "desc": "App de memorias y árbol genealógico" }
+    ]
+  },
+  "contact": {
+    "title": "Construyamos Juntos",
+    "form": {
+      "name": "Nombre Completo",
+      "company": "Empresa (Opcional)",
+      "email": "Correo Electrónico",
+      "solution": "¿Qué tipo de solución IA buscas?",
+      "submitButton": "Enviar Mensaje",
+      "area": {
+        "placeholder": "Selecciona un área de interés",
+        "legal": "Legal",
+        "health": "Salud",
+        "industry": "Industria",
+        "family": "Familiar",
+        "other": "Otra"
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para construir el futuro con nosotros?",
+    "button": "Empezar ahora"
+  }
+}

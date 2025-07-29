@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "about": "À propos de nous",
+    "services": "Services",
+    "cases": "Cas de réussite",
+    "contact": "Contactez-nous"
+  },
+  "hero": {
+    "title": "Nous construisons des solutions avec intelligence.",
+    "subtitle": "Nous concevons et intégrons des logiciels basés sur l'IA qui transforment les industries.",
+    "demo_button": "Demander une démo",
+    "cases_button": "Cas de réussite"
+  },
+  "about": {
+    "title": "À propos d'IAnova Labs",
+    "description": "Nous sommes une entreprise de développement de logiciels et d'intégration d'intelligence artificielle pour les processus réels. Nous transformons les idées en systèmes intelligents, robustes et évolutifs qui façonnent l'avenir de votre entreprise."
+  },
+  "services": {
+    "title": "Modules et Services",
+    "list": [
+      { "icon": "WrenchScrewdriverIcon", "title": "IA pour l'Industrie Plastique", "desc": "ERP de production, matériaux, inventaires." },
+      { "icon": "ScaleIcon", "title": "LegalTech", "desc": "Analyse de documents juridiques et gestion des clients." },
+      { "icon": "UserGroupIcon", "title": "Santé Mentale", "desc": "Application pour psychologues et gestion des patients." },
+      { "icon": "PhotoIcon", "title": "Généalogie/Souvenirs", "desc": "Application familiale pour préserver les histoires." },
+      { "icon": "CubeIcon", "title": "Retail Intelligent", "desc": "Gestion prédictive des stocks." },
+      { "icon": "TruckIcon", "title": "IA pour la Logistique", "desc": "Itinéraires optimaux, maintenance." },
+      { "icon": "ChartBarIcon", "title": "Analyse Prédictive des Ventes", "desc": "CRM avec IA." },
+      { "icon": "BookOpenIcon", "title": "Systèmes Éducatifs", "desc": "Plateformes d'apprentissage personnalisées." }
+    ]
+  },
+  "cases": {
+    "title": "Cas de Réussite",
+    "list": [
+      { "emoji": "🌿", "title": "PlastiGest", "desc": "ERP pour entreprise de plastiques" },
+      { "emoji": "⚖️", "title": "IAnova Cases", "desc": "Gestion intelligente des dossiers et documents" },
+      { "emoji": "🧠", "title": "PsicoFlow", "desc": "Gestion des thérapeutes et patients" },
+      { "emoji": "🧬", "title": "Admemorian", "desc": "App de souvenirs et arbre généalogique" }
+    ]
+  },
+  "contact": {
+    "title": "Construisons Ensemble",
+    "form": {
+      "name": "Nom complet",
+      "company": "Entreprise (Optionnel)",
+      "email": "Adresse e-mail",
+      "solution": "Quel type de solution IA recherchez-vous ?",
+      "submitButton": "Envoyer le message",
+      "area": {
+        "placeholder": "Sélectionnez un domaine d'intérêt",
+        "legal": "Juridique",
+        "health": "Santé",
+        "industry": "Industrie",
+        "family": "Familial",
+        "other": "Autre"
+      }
+    }
+  },
+  "cta": {
+    "title": "Prêt à construire l'avenir avec nous ?",
+    "button": "Commencer maintenant"
+  }
+}

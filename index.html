@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/logo.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Preconexión para fuentes y precarga de recursos críticos -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="/hero-video.mp4" as="video" type="video/mp4">
+
+  <!-- Metadatos para Redes Sociales (puedes dejarlos aquí) -->
+  <meta property="og:title" content="IAnova Labs - Soluciones con IA" />
+  <meta property="og:description" content="Diseñamos e integramos software impulsado por IA que transforma industrias." />
+  <meta property="og:image" content="https://ianovalabs.com/logo.png" />
+  <meta property="og:url" content="https://ianovalabs.com/" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <!-- etc. -->
+
+  <!-- El título y la descripción principal serán manejados por React Helmet -->
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx" defer></script>
+
+  <!--Start of Tawk.to Script-->
+  <script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+      s1.async = true;
+      s1.src = 'https://embed.tawk.to/6683fcb3db7610192eeab136/1j11p6796'; // <-- ID CORREGIDO
+      s1.charset = 'UTF-8';
+      s1.setAttribute('crossorigin', '*');
+      s0.parentNode.insertBefore(s1, s0);
+    })();
+  </script>
+  <!--End of Tawk.to Script-->
+</body>
+</html>
