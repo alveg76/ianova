@@ -14,16 +14,56 @@
     "description": "We are a software development and artificial intelligence integration company for real-world processes. We transform ideas into smart, robust, and scalable systems that drive the future of your business."
   },
   "services": {
-    "title": "Modules & Services",
+    "title": "Our Custom AI Solutions",
     "list": [
-      { "title": "AI for Plastics Industry", "desc": "ERP for production, materials, inventory." },
-      { "title": "LegalTech", "desc": "Legal document analysis and client management." },
-      { "title": "Mental Health", "desc": "App for psychologists and patient management." },
-      { "title": "Genealogy/Memories", "desc": "Family app to preserve stories." },
-      { "title": "Smart Retail", "desc": "Predictive inventory management." },
-      { "title": "AI for Logistics", "desc": "Optimal routes, predictive maintenance." },
-      { "title": "Predictive Sales Analytics", "desc": "CRM powered by AI." },
-      { "title": "Personalized Education Systems", "desc": "Customized learning platforms with AI." }
+      {
+        "icon": "WrenchScrewdriverIcon",
+        "title": "AI for Industry",
+        "desc": "ERP for production, materials, and inventory.",
+        "long_desc": "We develop a complete ERP system that optimizes every phase of the production cycle. From raw material management to quality control and delivery logistics, our AI provides demand forecasts and automates planning to reduce costs and increase efficiency."
+      },
+      {
+        "icon": "ScaleIcon",
+        "title": "LegalTech",
+        "desc": "Legal document analysis and client management.",
+        "long_desc": "Our LegalTech platform uses Natural Language Processing (NLP) to analyze thousands of legal documents in seconds, identifying key clauses, risks, and precedents. It automates case management and centralizes client information, freeing up valuable time for legal professionals."
+      },
+      {
+        "icon": "UserGroupIcon",
+        "title": "AI for Human Resources",
+        "desc": "Recruitment automation and workplace climate analysis.",
+        "long_desc": "We transform talent management with AI. Our solution automates the hiring process, from intelligent resume screening to identifying the most promising candidates. Additionally, we use sentiment analysis to assess the workplace climate in real-time, helping companies proactively improve satisfaction and reduce employee turnover."
+      },
+      {
+        "icon": "PhotoIcon",
+        "title": "Computer Vision",
+        "desc": "Quality control, security, and object detection.",
+        "long_desc": "We implement high-precision computer vision systems to automate visual inspection. Our solutions detect manufacturing defects in real-time, monitor areas to enhance perimeter and workplace safety, and perform object counting and classification with superhuman speed and accuracy, ensuring the highest quality for your products."
+      },
+      {
+        "icon": "CubeIcon",
+        "title": "Digital Twins",
+        "desc": "Simulation and optimization of processes and assets.",
+        "long_desc": "We create dynamic, virtual replicas of your physical assets and processes. These Digital Twins allow you to simulate scenarios, predict failures before they occur, and test optimizations without disrupting actual operations. It is the ultimate tool for predictive maintenance and continuous improvement, drastically reducing downtime."
+      },
+      {
+        "icon": "TruckIcon",
+        "title": "Logistics and Supply Chain",
+        "desc": "Route optimization and inventory management.",
+        "long_desc": "We revolutionize your supply chain with AI algorithms that optimize distribution routes in real-time, considering traffic, fuel costs, and delivery windows. Our predictive inventory management system ensures you have the right stock at the right time, minimizing storage costs and preventing stockouts."
+      },
+      {
+        "icon": "ChartBarIcon",
+        "title": "Business Intelligence (BI)",
+        "desc": "Interactive dashboards and predictive analytics.",
+        "long_desc": "We turn your raw data into actionable insights. We design interactive dashboards that provide a 360° view of your business in real-time. Beyond visualizing the present, we apply machine learning models to perform predictive analytics, helping you anticipate market trends, forecast demand, and make strategic decisions based on solid data."
+      },
+      {
+        "icon": "BookOpenIcon",
+        "title": "AI-Assisted Education",
+        "desc": "Personalized learning platforms.",
+        "long_desc": "We develop educational platforms that adapt to each student's learning pace and style. Our AI analyzes individual progress to offer personalized content, reinforce weak areas, and propose new challenges. This creates a more effective and engaging learning experience for both academic institutions and corporate training."
+      }
     ]
   },
   "cases": {

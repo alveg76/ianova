@@ -14,16 +14,56 @@
     "description": "Somos una empresa de desarrollo de software e integración de inteligencia artificial para procesos reales. Transformamos ideas en sistemas inteligentes, robustos y escalables que impulsan el futuro de tu negocio."
   },
   "services": {
-    "title": "Módulos y Servicios",
+    "title": "Nuestras Soluciones de IA a Medida",
     "list": [
-      { "icon": "WrenchScrewdriverIcon", "title": "IA para Industria Plástica", "desc": "ERP de producción, materiales, inventarios." },
-      { "icon": "ScaleIcon", "title": "LegalTech", "desc": "Análisis jurídico documental y gestión de clientes." },
-      { "icon": "UserGroupIcon", "title": "Salud Mental", "desc": "App para psicólogos y gestión de pacientes." },
-      { "icon": "PhotoIcon", "title": "Genealogía/Recuerdos", "desc": "App familiar para conservar historias." },
-      { "icon": "CubeIcon", "title": "Retail Inteligente", "desc": "Gestión predictiva de inventarios." },
-      { "icon": "TruckIcon", "title": "IA para Logística", "desc": "Rutas óptimas, mantenimientos." },
-      { "icon": "ChartBarIcon", "title": "Análisis Predictivo de Ventas", "desc": "CRM con IA." },
-      { "icon": "BookOpenIcon", "title": "Sistemas Educativos", "desc": "Plataformas de aprendizaje personalizadas." }
+      {
+        "icon": "WrenchScrewdriverIcon",
+        "title": "IA para Industria",
+        "desc": "ERP de producción, materiales, inventarios.",
+        "long_desc": "Desarrollamos un sistema ERP completo que optimiza cada fase del ciclo de producción. Desde la gestión de materia prima hasta el control de calidad y la logística de entrega, nuestra IA proporciona pronósticos de demanda y automatiza la planificación para reducir costos y aumentar la eficiencia."
+      },
+      {
+        "icon": "ScaleIcon",
+        "title": "LegalTech",
+        "desc": "Análisis jurídico documental y gestión de clientes.",
+        "long_desc": "Nuestra plataforma LegalTech utiliza procesamiento de lenguaje natural (NLP) para analizar miles de documentos legales en segundos, identificando cláusulas clave, riesgos y precedentes. Automatiza la gestión de casos y centraliza la información de los clientes, liberando tiempo valioso para los profesionales del derecho."
+      },
+      {
+        "icon": "UserGroupIcon",
+        "title": "IA para Recursos Humanos",
+        "desc": "Automatización de reclutamiento y análisis de clima laboral.",
+        "long_desc": "Transformamos la gestión del talento con IA. Nuestra solución automatiza el proceso de selección, desde el filtrado inteligente de currículums hasta la identificación de los candidatos más prometedores. Además, empleamos análisis de sentimiento para evaluar el clima laboral en tiempo real, ayudando a las empresas a mejorar la satisfacción y reducir la rotación de personal de forma proactiva."
+      },
+      {
+        "icon": "PhotoIcon",
+        "title": "Visión Artificial",
+        "desc": "Control de calidad, seguridad y detección de objetos.",
+        "long_desc": "Implementamos sistemas de visión por computadora de alta precisión para automatizar la inspección visual. Nuestras soluciones detectan defectos de fabricación en tiempo real, monitorizan zonas para mejorar la seguridad perimetral y laboral, y realizan el conteo y clasificación de objetos con una velocidad y exactitud sobrehumanas, garantizando la máxima calidad en tus productos."
+      },
+      {
+        "icon": "CubeIcon",
+        "title": "Gemelos Digitales",
+        "desc": "Simulación y optimización de procesos y activos.",
+        "long_desc": "Creamos réplicas virtuales y dinámicas de tus activos y procesos físicos. Estos Gemelos Digitales permiten simular escenarios, predecir fallos antes de que ocurran y probar optimizaciones sin interrumpir la operación real. Es la herramienta definitiva para el mantenimiento predictivo y la mejora continua, reduciendo drásticamente los tiempos de inactividad."
+      },
+      {
+        "icon": "TruckIcon",
+        "title": "Logística y Cadena de Suministro",
+        "desc": "Optimización de rutas y gestión de inventario.",
+        "long_desc": "Revolucionamos tu cadena de suministro con algoritmos de IA que optimizan las rutas de distribución en tiempo real, teniendo en cuenta tráfico, costos de combustible y ventanas de entrega. Nuestro sistema de gestión de inventario predictivo asegura que tengas el stock adecuado en el momento preciso, minimizando costos de almacenamiento y evitando roturas de stock."
+      },
+      {
+        "icon": "ChartBarIcon",
+        "title": "Business Intelligence (BI)",
+        "desc": "Dashboards interactivos y análisis predictivo.",
+        "long_desc": "Convertimos tus datos brutos en conocimiento accionable. Diseñamos dashboards interactivos que ofrecen una visión 360° de tu negocio en tiempo real. Más allá de visualizar el presente, aplicamos modelos de machine learning para realizar análisis predictivos, ayudándote a anticipar tendencias del mercado, prever la demanda y tomar decisiones estratégicas basadas en datos sólidos."
+      },
+      {
+        "icon": "BookOpenIcon",
+        "title": "Educación Asistida por IA",
+        "desc": "Plataformas de aprendizaje personalizadas.",
+        "long_desc": "Desarrollamos plataformas educativas que se adaptan al ritmo y estilo de aprendizaje de cada estudiante. Nuestra IA analiza el progreso individual para ofrecer contenido personalizado, reforzar áreas débiles y proponer nuevos desafíos. Esto crea una experiencia de aprendizaje más efectiva y motivadora, tanto para instituciones académicas como para la capacitación corporativa."
+      }
     ]
   },
   "cases": {

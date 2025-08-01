@@ -16,16 +16,56 @@
     "description": "Nous sommes une entreprise de développement de logiciels et d'intégration d'intelligence artificielle pour les processus réels. Nous transformons les idées en systèmes intelligents, robustes et évolutifs qui façonnent l'avenir de votre entreprise."
   },
   "services": {
-    "title": "Modules et Services",
+    "title": "Nos Solutions d'IA sur Mesure",
     "list": [
-      { "icon": "WrenchScrewdriverIcon", "title": "IA pour l'Industrie Plastique", "desc": "ERP de production, matériaux, inventaires." },
-      { "icon": "ScaleIcon", "title": "LegalTech", "desc": "Analyse de documents juridiques et gestion des clients." },
-      { "icon": "UserGroupIcon", "title": "Santé Mentale", "desc": "Application pour psychologues et gestion des patients." },
-      { "icon": "PhotoIcon", "title": "Généalogie/Souvenirs", "desc": "Application familiale pour préserver les histoires." },
-      { "icon": "CubeIcon", "title": "Retail Intelligent", "desc": "Gestion prédictive des stocks." },
-      { "icon": "TruckIcon", "title": "IA pour la Logistique", "desc": "Itinéraires optimaux, maintenance." },
-      { "icon": "ChartBarIcon", "title": "Analyse Prédictive des Ventes", "desc": "CRM avec IA." },
-      { "icon": "BookOpenIcon", "title": "Systèmes Éducatifs", "desc": "Plateformes d'apprentissage personnalisées." }
+      {
+        "icon": "WrenchScrewdriverIcon",
+        "title": "IA pour l'Industrie",
+        "desc": "ERP pour la production, les matériaux et les inventaires.",
+        "long_desc": "Nous développons un système ERP complet qui optimise chaque phase du cycle de production. De la gestion des matières premières au contrôle qualité et à la logistique de livraison, notre IA fournit des prévisions de la demande et automatise la planification pour réduire les coûts et augmenter l'efficacité."
+      },
+      {
+        "icon": "ScaleIcon",
+        "title": "LegalTech",
+        "desc": "Analyse de documents juridiques et gestion de clients.",
+        "long_desc": "Notre plateforme LegalTech utilise le traitement du langage naturel (NLP) pour analyser des milliers de documents juridiques en quelques secondes, identifiant les clauses clés, les risques et les précédents. Elle automatise la gestion des cas et centralise les informations des clients, libérant un temps précieux pour les professionnels du droit."
+      },
+      {
+        "icon": "UserGroupIcon",
+        "title": "IA pour les Ressources Humaines",
+        "desc": "Automatisation du recrutement et analyse du climat social.",
+        "long_desc": "Nous transformons la gestion des talents avec l'IA. Notre solution automatise le processus de recrutement, du filtrage intelligent des CV à l'identification des candidats les plus prometteurs. De plus, nous utilisons l'analyse de sentiment pour évaluer le climat social en temps réel, aidant les entreprises à améliorer la satisfaction et à réduire le roulement du personnel de manière proactive."
+      },
+      {
+        "icon": "PhotoIcon",
+        "title": "Vision par Ordinateur",
+        "desc": "Contrôle qualité, sécurité et détection d'objets.",
+        "long_desc": "Nous mettons en œuvre des systèmes de vision par ordinateur de haute précision pour automatiser l'inspection visuelle. Nos solutions détectent les défauts de fabrication en temps réel, surveillent les zones pour renforcer la sécurité périmétrique et au travail, et effectuent le comptage et la classification d'objets avec une vitesse et une exactitude surhumaines, garantissant la plus haute qualité pour vos produits."
+      },
+      {
+        "icon": "CubeIcon",
+        "title": "Jumeaux Numériques",
+        "desc": "Simulation et optimisation des processus et des actifs.",
+        "long_desc": "Nous créons des répliques virtuelles et dynamiques de vos actifs et processus physiques. Ces Jumeaux Numériques permettent de simuler des scénarios, de prédire les pannes avant qu'elles ne surviennent et de tester des optimisations sans interrompre les opérations réelles. C'est l'outil ultime pour la maintenance prédictive et l'amélioration continue, réduisant drastiquement les temps d'arrêt."
+      },
+      {
+        "icon": "TruckIcon",
+        "title": "Logistique et Chaîne d'Approvisionnement",
+        "desc": "Optimisation des itinéraires et gestion des stocks.",
+        "long_desc": "Nous révolutionnons votre chaîne d'approvisionnement avec des algorithmes d'IA qui optimisent les itinéraires de distribution en temps réel, en tenant compte du trafic, des coûts de carburant et des fenêtres de livraison. Notre système de gestion prédictive des stocks garantit que vous disposez du stock adéquat au bon moment, minimisant les coûts de stockage et évitant les ruptures de stock."
+      },
+      {
+        "icon": "ChartBarIcon",
+        "title": "Business Intelligence (BI)",
+        "desc": "Tableaux de bord interactifs et analyse prédictive.",
+        "long_desc": "Nous transformons vos données brutes en informations exploitables. Nous concevons des tableaux de bord interactifs qui offrent une vue à 360° de votre entreprise en temps réel. Au-delà de la visualisation du présent, nous appliquons des modèles de machine learning pour effectuer des analyses prédictives, vous aidant à anticiper les tendances du marché, à prévoir la demande et à prendre des décisions stratégiques basées sur des données solides."
+      },
+      {
+        "icon": "BookOpenIcon",
+        "title": "Éducation Assistée par IA",
+        "desc": "Plateformes d'apprentissage personnalisées.",
+        "long_desc": "Nous développons des plateformes éducatives qui s'adaptent au rythme et au style d'apprentissage de chaque étudiant. Notre IA analyse les progrès individuels pour offrir un contenu personnalisé, renforcer les points faibles et proposer de nouveaux défis. Cela crée une expérience d'apprentissage plus efficace et motivante, tant pour les établissements universitaires que pour la formation en entreprise."
+      }
     ]
   },
   "cases": {
